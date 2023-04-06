@@ -1,16 +1,2 @@
-# galaxy_planet_pr2
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/121867877/230285992-b59cb005-6560-4f55-b77c-60f7c7fa8f43.png)
+![image](https://user-images.githubusercontent.com/121867877/230286024-4c88d224-6917-4b2b-a775-f43033121eea.png)
